@@ -1,17 +1,19 @@
-# cybersecurity-interview-prep
-Cybersecurity interview questions, technical answers, DFIR concepts, SOC scenarios, and career preparation notes.
+# Cybersecurity Interview Prep
 
-cybersecurity-interview-prep/
+This repository contains cybersecurity interview questions, technical explanations, DFIR concepts, networking questions, Linux fundamentals, and personal interview preparation notes.
 
-README.md
+## Topics Covered
 
-01-general-cybersecurity-questions.md
-02-networking-questions.md
-03-wireshark-questions.md
-04-linux-questions.md
-05-dfir-questions.md
-06-soc-analyst-questions.md
-07-behavioral-questions.md
-08-security-plus-questions.md
-09-ncl-interview-questions.md
-10-my-personal-answers.md
+- General Cybersecurity
+- Networking
+- Wireshark
+- Linux
+- DFIR
+- SOC Analyst
+- Behavioral Questions
+- Security+
+- Federal Agency Interviews
+
+## Goal
+
+Prepare for cybersecurity internships, help desk roles, SOC analyst positions, DFIR opportunities, and future federal cybersecurity careers.
